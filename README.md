@@ -18,7 +18,7 @@ Place the lua files in **a folder** in `<Game Directory Name>\iw6x\scripts`
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/70229620/124798937-40107780-df54-11eb-8ef5-7e355d758aa7.png)
+![image](https://user-images.githubusercontent.com/70229620/124800257-bb265d80-df55-11eb-820e-33c666913b6f.png)
 
 ## Binds
 **N** (+actionslot 1) - Open/close menu & Go Back</br>
