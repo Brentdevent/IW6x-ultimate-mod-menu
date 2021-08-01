@@ -40,7 +40,7 @@ Place the lua files in **a folder** in `<Game Directory Name>\iw6x\scripts`
 ##
 **Q:** I wan't a feature that is not in the menu?
 
-**A:** Feel free to open an issue or contact me on discord **@Brent#7479**
+**A:** Feel free to open an issue, contact me on discord **@Brent#7479** or create a pull request.
 
 ##
 **Q:** I don't see option Z on map X but I see it on map Y
