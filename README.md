@@ -48,5 +48,5 @@ Place the lua files in **a folder** in `<Game Directory Name>\iw6x\scripts`
 **A:** Not all weapons are loaded in every map, therefore you can't use them.
 
 ## Credits
-Thanks to **mjkzy** for creating the menu base (https://github.com/mjkzy/s1x-mod-menu) 
+Thanks to **mjkzy & DynamicWRLD** for creating the menu base (https://github.com/mjkzy/s1x-mod-menu) 
 
